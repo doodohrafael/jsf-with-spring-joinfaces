@@ -3,7 +3,6 @@
 	<groupId>com.rafael</groupId>
 	<artifactId>jsf-with-spring-joinfaces</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -12,16 +11,16 @@
 	</parent>
 
 	<repositories>
-
 		<repository>
 			<id>prime-repo</id>
 			<name>PrimeFaces Maven Repository</name>
-			<url>http://repository.primefaces.org</url>
+			<url>https://repository.primefaces.org/org/primefaces/</url>
 			<layout>default</layout>
 		</repository>
 	</repositories>
 
 	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
 		<!-- 1. Define the property for the JoinFaces version -->
 		<joinfaces.version>4.7.2</joinfaces.version>

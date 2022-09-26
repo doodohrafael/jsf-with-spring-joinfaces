@@ -1,0 +1,6 @@
+com\rafael\jsfwithspringjoinfaces\JsfWithSpringJoinfacesApplication.class
+com\rafael\jsfwithspringjoinfaces\CadastroAlunoBean.class
+com\rafael\jsfwithspringjoinfaces\Aluno.class
+com\rafael\jsfwithspringjoinfaces\config\ViewScope.class
+com\rafael\jsfwithspringjoinfaces\config\JsfSpringWebApplicationInitializer.class
+com\rafael\jsfwithspringjoinfaces\config\ViewScopeConfig.class
