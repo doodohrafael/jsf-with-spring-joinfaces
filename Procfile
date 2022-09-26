@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.rafael.jsfwithspringjoinfaces.JsfWithSpringJoinfacesApplication
+web: java -jar target/jsf-with-spring-joinfaces-0.0.1-SNAPSHOT.jar
