@@ -9,7 +9,7 @@
 ### Tomcat 9
 ### Primefaces 11
 ### Lombok 1.18.24
-<BR/><BR/>
+<BR/>
 Isso pode ser feito de várias formas, mas aprendi uma bem legal e simples.
 
 Bom, tenho experiências com várias tecnologias e pesquisando vi que dá para integrar algumas delas, nesse caso, o JSF com o Spring.
