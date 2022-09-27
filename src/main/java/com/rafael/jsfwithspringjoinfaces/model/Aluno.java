@@ -1,4 +1,4 @@
-package com.rafael.jsfwithspringjoinfaces;
+package com.rafael.jsfwithspringjoinfaces.model;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package com.rafael.jsfwithspringjoinfaces;
+package com.rafael.jsfwithspringjoinfaces.beans;
 
 import java.io.Serializable;
 import java.time.LocalDate;
@@ -10,6 +10,8 @@ import javax.faces.context.FacesContext;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
+
+import com.rafael.jsfwithspringjoinfaces.model.Aluno;
 
 import lombok.Data;
 
